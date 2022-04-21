@@ -16,4 +16,4 @@ This is an ip logger in JavaScript to place in your site to prank your friends o
 ```content: "Description " + json.ip + ""   ``` In 'Description' make your description BUT DONT TOUCH 'json.ip'
 
 ### Okay i configure and ?
-🎉 And nothing ou have just configured your ip logger congratulations
+🎉 And nothing you have just configured your ip logger congratulations
