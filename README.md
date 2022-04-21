@@ -8,8 +8,11 @@ This is an ip logger in JavaScript to place in your site to prank your friends o
 📝 In the ip.html file you have to change this
 
 ```request.open("POST", "Webhook");``` In 'Webhook' put your webhook link
+
 ```username: "Name",``` In 'Name' change the name
+
 ```  avatar_url: "Link-Avatar",  ``` In 'Link-Avatar' put your image link exemple: imgur and more...
+
 ```content: "Description " + json.ip + ""   ``` In 'Description' make your description BUT DONT TOUCH 'json.ip'
 
 ### Okay i configure and ?
